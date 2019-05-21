@@ -6,7 +6,6 @@ This site provides materials for training in bioinformatics and is run by the Ot
 <br/><br/>
 # Workshops and Events
 
-<br/><br/>
 ## Upcoming Workshops
 
 - 11-12 June 2019: Genotyping-by-Sequencing in Ecology and Evolution
