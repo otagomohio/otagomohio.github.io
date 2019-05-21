@@ -12,7 +12,13 @@ This site provides materials for training in bioinformatics and is run by the Ot
 - 11-12 June 2019: Genotyping-by-Sequencing in Ecology and Evolution
 
 <br/><br/>
-## Hacky Hour: Bioinformatics Help Session
+## [Hacky Hour: Bioinformatics Help Session](https://otagomohio.github.io/hackyhour/)
+
+Source for information on our biweekly sessions. 
+
+**Next Meeting:**
+
+29 May, 2019: "Visualising Alignments and Assemblies--from SAM files to SeqMonk"
 
 <br/><br/>
 <br/><br/>
