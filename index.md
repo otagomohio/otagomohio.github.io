@@ -20,4 +20,9 @@ Source for information on our biweekly sessions.
 29 May, 2019: "Visualising Alignments and Assemblies--from SAM files to SeqMonk"
 
 <br/><br/>
+
+# Handy Links
+
+[Otago Carpentries](https://otagocarpentries.github.io/)
+
 <br/><br/>
