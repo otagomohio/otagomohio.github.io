@@ -8,7 +8,7 @@ This site provides materials for training in bioinformatics and is run by the Ot
 
 ## Upcoming Workshops
 
-- [11-12 June 2019: Genotyping-by-Sequencing in Ecology and Evolution](https://drive.google.com/open?id=1Ytv-op883hXhGrZ7d8UmgSjjaZs74kE7)
+- [11-12 June 2019: Genotyping-by-Sequencing in Ecology and Evolution](https://otagomohio.github.io/2019-06-11_GBS_EE/)
 
 <br/><br/>
 ## [Hacky Hour: Bioinformatics Help Session](https://otagomohio.github.io/hackyhour/)
