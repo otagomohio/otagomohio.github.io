@@ -15,7 +15,8 @@ This site provides materials for training in bioinformatics and is run by the Ot
 
 Source for information on our biweekly sessions. 
 
-**Upcoming Meetings:**  
+**Upcoming Meetings:** 
+
 19 June 2019: ["How do I figure out how many resources I need for my job?"](https://github.com/otagomohio/hackyhour/blob/master/sessions/presentations/profiling.pdf)
 
 **Past Meetings:**
