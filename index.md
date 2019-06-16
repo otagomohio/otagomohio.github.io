@@ -6,7 +6,7 @@ This site provides materials for training in bioinformatics and is run by the Ot
 <br/><br/>
 # Workshops and Events
 
-## Upcoming Workshops
+## Past Workshops
 
 - [11-12 June 2019: Genotyping-by-Sequencing in Ecology and Evolution](https://otagomohio.github.io/2019-06-11_GBS_EE/)
 
@@ -15,9 +15,12 @@ This site provides materials for training in bioinformatics and is run by the Ot
 
 Source for information on our biweekly sessions. 
 
-**Next Meeting:**
+**Upcoming Meetings:**
+19 June 2019: ["How do I figure out how many resources I need for my job?"](https://github.com/otagomohio/hackyhour/blob/master/sessions/presentations/profiling.pdf)
 
-29 May, 2019: "Visualising Alignments and Assemblies--from SAM files to SeqMonk"
+**Past Meetings:**
+
+29 May 2019: "Visualising Alignments and Assemblies--from SAM files to SeqMonk"
 
 <br/><br/>
 
