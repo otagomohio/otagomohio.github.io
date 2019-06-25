@@ -21,7 +21,7 @@ Source for information on our biweekly sessions.
 
 **Past Meetings:**
 
-29 May 2019: ["Visualising Alignments and Assemblies--from SAM files to SeqMonk"](https://github.com/otagomohio/hackyhour/blob/master/sessions/2019_05_29.md)
+29 May 2019: [*"Visualising Alignments and Assemblies--from SAM files to SeqMonk"*](https://otagomohio.github.io/hackyhour/sessions/2019_05_29.md)
 
 <br/><br/>
 
