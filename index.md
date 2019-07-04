@@ -14,7 +14,7 @@ This site provides materials for training in bioinformatics and is run by the Ot
 
 Source for information on our biweekly sessions. 
 
-**Upcoming Meetings:** 
+**Upcoming Meetings:**  
 *Starting again second semester*
 
 
