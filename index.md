@@ -3,13 +3,12 @@ This site provides materials for training in bioinformatics and is run by the Ot
 
 ### [*mohio*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=mohio): "To know, understand, realise, comprehend..."
 
-<br/>
 ## Workshops and Events
 
 **Past Workshops:**  
 [11-12 June 2019: Genotyping-by-Sequencing in Ecology and Evolution](https://otagomohio.github.io/2019-06-11_GBS_EE/)
 
-<br/>
+
 ## [Hacky Hour: Bioinformatics Help Session](https://otagomohio.github.io/hackyhour/)
 
 Source for information on our biweekly sessions. 
@@ -23,7 +22,6 @@ Source for information on our biweekly sessions.
 
 29 May 2019: ["Visualising Alignments and Assemblies--from SAM files to SeqMonk"](https://otagomohio.github.io/hackyhour/sessions/2019_05_29.html)
 
-<br/>
 
 ## NeSI news
 Python Profiling on NeSI  
@@ -34,10 +32,8 @@ Learn how to profile serial and parallel applications to avoid performance bottl
 Other user training sessions (online and in person) are being planned for the remainder of the year. To receive event notifications when dates and topics are confirmed, sign up here:  
 http://eepurl.com/grV9if  
 
-<br/>
 
 ## Other handy Links
 
 [Otago Carpentries](https://otagocarpentries.github.io/)
 
-<br/>
