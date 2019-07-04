@@ -16,17 +16,28 @@ This site provides materials for training in bioinformatics and is run by the Ot
 Source for information on our biweekly sessions. 
 
 **Upcoming Meetings:** 
+*Starting again second semester*
 
-19 June 2019: ["How do I figure out how many resources I need for my job?"](https://github.com/otagomohio/hackyhour/blob/master/sessions/presentations/profiling.pdf)
 
 **Past Meetings:**
+19 June 2019: ["How do I figure out how many resources I need for my job?"](https://github.com/otagomohio/hackyhour/blob/master/sessions/presentations/profiling.pdf)
 
 29 May 2019: ["Visualising Alignments and Assemblies--from SAM files to SeqMonk"](https://otagomohio.github.io/hackyhour/sessions/2019_05_29.html)
 
+<br/><br/>
+
+## NeSI news
+Python Profiling on NeSI  
+Monday 15 July  
+2:00 - 3:30 pm  
+Learn how to profile serial and parallel applications to avoid performance bottlenecks and make the most of your NeSI core hours. [Click here for more information and to register.](https://www.eventbrite.co.nz/e/python-profiling-on-nesi-online-workshop-registration-63838230867)     
+
+Other user training sessions (online and in person) are being planned for the remainder of the year. To receive event notifications when dates and topics are confirmed, sign up here:  
+http://eepurl.com/grV9if  
 
 <br/><br/>
 
-# Handy Links
+## Other handy Links
 
 [Otago Carpentries](https://otagocarpentries.github.io/)
 
