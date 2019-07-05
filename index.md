@@ -29,10 +29,8 @@ Source for information on our biweekly sessions.
 
     Learning how to use HPCs can be tricky! To make the process more enjoyable, come along to NeSI hacky hour, Wednesday July 10th from     1:00-2:00pm, where NeSI users can share their difficulties, exchange ideas, and get help from their peers and NeSI staff.   
 
-    The topics of discussion are up to you :-) So if any questions or comments come to mind (could be about slurm, profiling, or anything else), please pop them into this google doc beforehand (it would make us super excited!): 
+    The topics of discussion are up to you :-) So if any questions or comments come to mind (could be about slurm, profiling, or anything else), please pop them into this [google doc](https://docs.google.com/document/d/1kFTY_M4Y6iGOWFDnwoqRSYCAw7Gx8vr3kqPRYgZZcfc/edit?usp=sharing) beforehand (it would make us super excited!) 
 
-    https://docs.google.com/document/d/1kFTY_M4Y6iGOWFDnwoqRSYCAw7Gx8vr3kqPRYgZZcfc/edit?usp=sharing
- 
     *Who is this hacky hour for?*  
     Any GA/ NeSI user who wants to gain confidence in a casual and supportive environment
 
