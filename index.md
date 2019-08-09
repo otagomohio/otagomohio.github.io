@@ -6,6 +6,10 @@ This site provides materials for training in bioinformatics and is run by the Ot
 ***
 ## Workshops and Events
 
+[28-29 August, 2019: Data Carpentry Workshop](https://datacarpentry.org/socialsci-workshop/)
+
+This will be a workshop teaching the Social Sciences curriculum, organised by [Otago Carpentries](https://otagocarpentries.github.io/)
+
 **Past Workshops:**  
 [11-12 June 2019: Genotyping-by-Sequencing in Ecology and Evolution](https://otagomohio.github.io/2019-06-11_GBS_EE/)
 
@@ -15,7 +19,8 @@ This site provides materials for training in bioinformatics and is run by the Ot
 Source for information on our biweekly sessions. 
 
 **Upcoming Meetings:**  
-*Starting again second semester*
+
+14 August, 2019: [*What went wrong? How to spot your mistakes and fix them*](https://otagomohio.github.io/hackyhour/sessions/2019_08_14.html)
 
 
 **Past Meetings:**  
