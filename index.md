@@ -31,7 +31,7 @@ Source for information on our biweekly sessions.
 ***
 ## NeSI news
 
-4 September, 2019: [**Training workshop (Christchurch): Python Code Optimisation on NeSI**](https://support.nesi.org.nz/hc/en-gb/articles/360001005695-Training-workshop-Christchurch-04-Sept-Python-Code-Optimisation-on-NeSI)
+4 September, 2019: [Training workshop (Christchurch): Python Code Optimisation on NeSI](https://support.nesi.org.nz/hc/en-gb/articles/360001005695-Training-workshop-Christchurch-04-Sept-Python-Code-Optimisation-on-NeSI)
 
 [Previous NeSI news](nesi/past_announcements.md)
 
