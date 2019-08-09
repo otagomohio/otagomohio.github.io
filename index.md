@@ -24,9 +24,9 @@ Source for information on our biweekly sessions.
 
 
 **Past Meetings:**  
-19 June 2019: ["How do I figure out how many resources I need for my job?"](https://github.com/otagomohio/hackyhour/blob/master/sessions/presentations/profiling.pdf)
+19 June 2019: [*How do I figure out how many resources I need for my job?*](https://github.com/otagomohio/hackyhour/blob/master/sessions/presentations/profiling.pdf)
 
-29 May 2019: ["Visualising Alignments and Assemblies--from SAM files to SeqMonk"](https://otagomohio.github.io/hackyhour/sessions/2019_05_29.html)
+29 May 2019: [*Visualising Alignments and Assemblies--from SAM files to SeqMonk*](https://otagomohio.github.io/hackyhour/sessions/2019_05_29.html)
 
 ***
 ## NeSI news
