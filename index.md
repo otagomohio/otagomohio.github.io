@@ -10,6 +10,8 @@ This site provides materials for training in bioinformatics and is run by the Ot
 
 This will be a workshop teaching the Social Sciences curriculum, organised by [Otago Carpentries](https://otagocarpentries.github.io/)
 
+15 August, 2019: [Metabarcoding Workshop](workshops/eDNA_Metabarcoding.html)
+
 ### Past Workshops:
 
 11-12 June 2019: [Genotyping-by-Sequencing in Ecology and Evolution](https://otagomohio.github.io/2019-06-11_GBS_EE/)
@@ -38,7 +40,7 @@ Source for information on our biweekly sessions.
 
 
 ***
-## Other handy Links
+## Other Handy Links
 
 [Otago Carpentries](https://otagocarpentries.github.io/)
 
