@@ -10,6 +10,8 @@ This site provides materials for training in bioinformatics and is run by the Ot
 
 This will be a workshop teaching the Social Sciences curriculum, organised by [Otago Carpentries](https://otagocarpentries.github.io/)
 
+27 August, 2019: [Getting Started with Qiime2](https://otagoedna.github.io/getting_started_with_qiime2/)
+
 15 August, 2019: [Metabarcoding Workshop](workshops/eDNA_Metabarcoding.html)
 
 ### Past Workshops:
