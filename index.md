@@ -25,7 +25,7 @@ This will be a workshop teaching the Social Sciences curriculum, organised by [O
 Source for information on our biweekly sessions. 
 
 **Upcoming Meetings:**  
-11 September, 2019: [*Shell scripting basics and for loops*](https://github.com/otagomohio/hackyhour/sessions/2019_09_11.html)
+11 September, 2019: [*Getting started writing scripts*](https://otagomohio.github.io/hackyhour/sessions/2019_09_11.html)]
 
 **Past Meetings:**  
 14 August, 2019: [*What went wrong? How to spot your mistakes and fix them*](https://otagomohio.github.io/hackyhour/sessions/2019_08_14.html)
