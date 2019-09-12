@@ -6,15 +6,16 @@ This site provides materials for training in bioinformatics and is run by the Ot
 ***
 ## Workshops and Events
 
+
+### Past Workshops:
+
 28-29 August, 2019: [Data Carpentry Workshop](https://datacarpentry.org/socialsci-workshop/)
 
 This will be a workshop teaching the Social Sciences curriculum, organised by [Otago Carpentries](https://otagocarpentries.github.io/)
 
 27 August, 2019: [Getting Started with Qiime2](https://otagoedna.github.io/getting_started_with_qiime2/)
 
-15 August, 2019: [Metabarcoding Workshop](workshops/eDNA_Metabarcoding.html)
-
-### Past Workshops:
+15 August, 2019: [Metabarcoding Workshop](workshops/eDNA_Metabarcoding.html)  
 
 11-12 June 2019: [Genotyping-by-Sequencing in Ecology and Evolution](https://otagomohio.github.io/2019-06-11_GBS_EE/)
 
@@ -24,11 +25,11 @@ This will be a workshop teaching the Social Sciences curriculum, organised by [O
 Source for information on our biweekly sessions. 
 
 **Upcoming Meetings:**  
-
-14 August, 2019: [*What went wrong? How to spot your mistakes and fix them*](https://otagomohio.github.io/hackyhour/sessions/2019_08_14.html)
-
+11 September, 2019: [*Shell scripting basics and for loops*](https://github.com/otagomohio/hackyhour/blob/master/sessions/2019_09_11.md)
 
 **Past Meetings:**  
+14 August, 2019: [*What went wrong? How to spot your mistakes and fix them*](https://otagomohio.github.io/hackyhour/sessions/2019_08_14.html)
+
 19 June 2019: [*How do I figure out how many resources I need for my job?*](https://github.com/otagomohio/hackyhour/blob/master/sessions/presentations/profiling.pdf)
 
 29 May 2019: [*Visualising Alignments and Assemblies--from SAM files to SeqMonk*](https://otagomohio.github.io/hackyhour/sessions/2019_05_29.html)
