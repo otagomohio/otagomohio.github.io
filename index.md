@@ -27,9 +27,11 @@ This site provides materials for training in bioinformatics and is run by the Ot
 Source for information on our biweekly sessions. 
 
 **Upcoming Meetings:**  
-11 September, 2019: [*Getting started writing scripts*](https://otagomohio.github.io/hackyhour/sessions/2019_09_11.html)
+25 September, 2019: [*I want it faster! Using arrays in bash*](https://otagomohio.github.io/hackyhour/sessions/2019_09_11_parallel_loop_extension.html)
 
 **Past Meetings:**  
+11 September, 2019: [*Getting started writing scripts*](https://otagomohio.github.io/hackyhour/sessions/2019_09_11.html)
+
 14 August, 2019: [*What went wrong? How to spot your mistakes and fix them*](https://otagomohio.github.io/hackyhour/sessions/2019_08_14.html)
 
 19 June 2019: [*How do I figure out how many resources I need for my job?*](https://github.com/otagomohio/hackyhour/blob/master/sessions/presentations/profiling.pdf)
