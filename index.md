@@ -6,12 +6,12 @@ This site provides materials for training in bioinformatics and is run by the Ot
 ***
 ## Workshops and Events
 
-25-26 September: [Data Carpentry - Genomics](https://otagocarpentries.github.io/2019-09-25-otago/)
-
 25-28 November: [Environmental DNA Workshop, University of Otago](https://otagoedna.github.io/eDNA_Workshop_Nov_2019/)
 
 
 ### Past Workshops:
+
+25-26 September: [Data Carpentry - Genomics](https://otagocarpentries.github.io/2019-09-25-otago/)
 
 28-29 August, 2019: [Data Carpentry Workshop](https://datacarpentry.org/socialsci-workshop/)
 
@@ -27,21 +27,22 @@ This site provides materials for training in bioinformatics and is run by the Ot
 Source for information on our biweekly sessions. 
 
 **Upcoming Meetings:**  
-25 September, 2019: [*I want it faster! Using arrays in bash*](https://otagomohio.github.io/hackyhour/sessions/2019_09_11_parallel_loop_extension.html)
+
 
 **Past Meetings:**  
+
+25 September, 2019: [*I want it faster! Using arrays in bash*](https://otagomohio.github.io/hackyhour/sessions/2019_09_11_parallel_loop_extension.html)
+
 11 September, 2019: [*Getting started writing scripts*](https://otagomohio.github.io/hackyhour/sessions/2019_09_11.html)
 
-14 August, 2019: [*What went wrong? How to spot your mistakes and fix them*](https://otagomohio.github.io/hackyhour/sessions/2019_08_14.html)
-
-19 June 2019: [*How do I figure out how many resources I need for my job?*](https://github.com/otagomohio/hackyhour/blob/master/sessions/presentations/profiling.pdf)
-
-29 May 2019: [*Visualising Alignments and Assemblies--from SAM files to SeqMonk*](https://otagomohio.github.io/hackyhour/sessions/2019_05_29.html)
+[*Links to all previous sessions*](https://otagomohio.github.io/hackyhour/sessions/session_index.html)
 
 ***
 ## NeSI news
 
-4 September, 2019: [Training workshop (Christchurch): Python Code Optimisation on NeSI](https://support.nesi.org.nz/hc/en-gb/articles/360001005695-Training-workshop-Christchurch-04-Sept-Python-Code-Optimisation-on-NeSI)
+9 October, 2019: [Webinar: Getting Started with NeSI](https://www.nesi.org.nz/event/2019/10/webinar-getting-started-nesi)
+
+[**Previous NeSI webinars can be found on their youTube channel**](https://www.youtube.com/channel/UCiEDJKtjWUVv-VSmD-jfWTA/videos)
 
 [Previous NeSI news](nesi/past_announcements.md)
 
