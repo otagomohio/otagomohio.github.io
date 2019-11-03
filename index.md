@@ -1,7 +1,7 @@
 
 This site provides materials for training in bioinformatics and is run by the Otago South Campus Bioinformatics Group
 
-### [*mohio*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=mohio): "To know, understand, realise, comprehend..."
+### [*mōhio*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=mohio): "To know, understand, realise, comprehend..."
 
 ***
 ## Workshops and Events
