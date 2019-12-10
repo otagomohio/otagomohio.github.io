@@ -33,9 +33,9 @@ Source for information on our biweekly sessions.
 
 **Past Meetings:**  
 
-25 September, 2019: [*I want it faster! Using arrays in bash*](https://otagomohio.github.io/hackyhour/sessions/2019_09_11_parallel_loop_extension.html)
+4 December, 2019: [*What's going on*](sessions/2019_12_04.md)
 
-11 September, 2019: [*Getting started writing scripts*](https://otagomohio.github.io/hackyhour/sessions/2019_09_11.html)
+20 November, 2019: [*Help us help you*](sessions/2019_11_20.md)
 
 [*Links to all previous sessions*](https://otagomohio.github.io/hackyhour/sessions/session_index.html)
 
