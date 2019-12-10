@@ -6,10 +6,12 @@ This site provides materials for training in bioinformatics and is run by the Ot
 ***
 ## Workshops and Events
 
-25-28 November: [Environmental DNA Workshop, University of Otago](https://otagoedna.github.io/eDNA_Workshop_Nov_2019/)
+
 
 
 ### Past Workshops:
+
+25-28 November: [Environmental DNA Workshop, University of Otago](https://otagoedna.github.io/eDNA_Workshop_Nov_2019/)
 
 25-26 September: [Data Carpentry - Genomics](https://otagocarpentries.github.io/2019-09-25-otago/)
 
