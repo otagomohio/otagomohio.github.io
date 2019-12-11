@@ -33,9 +33,9 @@ Source for information on our biweekly sessions.
 
 **Past Meetings:**  
 
-4 December, 2019: [*What's going on*](sessions/2019_12_04.md)
+4 December, 2019: [*What's going on*](https://otagomohio.github.io/hackyhour/sessions/2019_12_04.html)
 
-20 November, 2019: [*Help us help you*](sessions/2019_11_20.md)
+20 November, 2019: [*Help us help you*](https://otagomohio.github.io/hackyhour/sessions/2019_11_20.md)
 
 [*Links to all previous sessions*](https://otagomohio.github.io/hackyhour/sessions/session_index.html)
 
